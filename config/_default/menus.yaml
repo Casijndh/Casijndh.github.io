@@ -3,13 +3,13 @@
 #   The `weight` parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: MEP
     url: /#top
     weight: 10
-  - name: Features
+  - name: NOG MEER MEP
     url: /#features
     weight: 20
-  - name: Solutions
+  - name: MEPAMSTERDAM
     url: /#solutions
     weight: 30
   - name: Resources
