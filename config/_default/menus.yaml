@@ -5,10 +5,10 @@
 main:
   - name: MEP
     url: /#top
-    weight: 100
-#  - name: NOG MEER MEP
-#    url: /#features
-#    weight: 40
+    weight: 1
+  - name: NOG MEER MEP
+    url: /#features
+    weight: 2
 #  - name: MEPAMSTERDAM
 #    url: /#solutions
 #    weight: 40
