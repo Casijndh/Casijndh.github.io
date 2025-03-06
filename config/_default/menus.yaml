@@ -3,9 +3,9 @@
 #   The `weight` parameter defines the order that the links will appear in.
 
 main:
-#  - name: MEP
-#    url: /#top
-#    weight: 40
+  - name: MEP
+    url: /#top
+    weight: 40
 #  - name: NOG MEER MEP
 #    url: /#features
 #    weight: 40
