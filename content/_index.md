@@ -23,7 +23,7 @@ sections:
         text: "Announcing the release of version 1."
         link:
           text: "Read more"
-          url: "/MEP/"
+          url: "/Home/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
