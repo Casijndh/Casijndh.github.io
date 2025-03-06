@@ -3,12 +3,23 @@
 #   The `weight` parameter defines the order that the links will appear in.
 
 main:
-  - name: MEP
+  - name: Home
     url: /#top
     weight: 1
-  - name: overmep
+  - name: De Stichting
     url: /#overmep
     weight: 2
+  - name: Galerij
+    url: /#overmep
+    weight: 3
+  - name: Contact
+    url: /#overmep
+    weight: 4
+
+
+
+
+
 #  - name: MEPAMSTERDAM
 #    url: /#solutions
 #    weight: 40
