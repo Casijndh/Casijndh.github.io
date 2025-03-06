@@ -6,8 +6,8 @@ main:
   - name: MEP
     url: /#top
     weight: 1
-  - name: NOG MEER MEP
-    url: /#features
+  - name: overmep
+    url: /#overmep
     weight: 2
 #  - name: MEPAMSTERDAM
 #    url: /#solutions
