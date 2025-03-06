@@ -5,14 +5,14 @@
 main:
   - name: MEP
     url: /#top
-    weight: 10
+    weight: 40
   - name: NOG MEER MEP
     url: /#features
-    weight: 20
+    weight: 40
   - name: MEPAMSTERDAM
     url: /#solutions
-    weight: 30
-  - name: Resources
+    weight: 40
+  - name: OVER ONS
     weight: 40
     hasChildren: true
   - parent: Resources
